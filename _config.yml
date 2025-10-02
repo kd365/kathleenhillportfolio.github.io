@@ -18,7 +18,7 @@ baseurl: "/kathleenhillportfolio.github.io"
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Alexandria, VA"
-resume_url: /kathleenhillportfolio.github.io/img/Resume_Hill_2025.pdf
+resume_url: /blob/master/img/Resume_Hill_2025.pdf
 avatar_image: /img/headshot.jpeg
 
 #-------------------------------
@@ -52,6 +52,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
