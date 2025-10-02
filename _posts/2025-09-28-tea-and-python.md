@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tea & Python
-image: "/posts/coffee_python.jpg"
+image: "/posts/primes_image.jpeg"
 tags: [Python, Tea]
 ---
 
