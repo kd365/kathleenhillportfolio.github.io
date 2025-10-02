@@ -5,11 +5,7 @@ image: "/posts/coffee_python.jpg"
 tags: [Python, Tea]
 ---
 
-# My first project
-## is all about
-### how much
-#### I LOVE
-##### Python & Coffee!
+# My first project is all about PRIMES!
 
 ---
 
