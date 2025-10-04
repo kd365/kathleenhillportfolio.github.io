@@ -8,15 +8,15 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Kathleen Hill's Portfolio
-description: "Hi I'm Kathleen, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+title: Kathleen Hill
+description: "Welcome to my data science portfolio, where I showcase my passion for extracting insights from data and driving decision-making through data-driven approaches. With a strong foundation in statistical analysis, machine learning, and data visualization, I am able to uncover hidden patterns, optimize processes, and inform strategic initiatives. Browse my projects to see how I've applied data science to real-world problems, and let's explore how I can help you unlock the full potential of your data. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 url: "https://kd365.github.io"
 baseurl: "/kathleenhillportfolio.github.io"
 
 
 #-------------------------------
 # About Section
-subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
+subtitle: Turning Data Into <span style="color:#f58506"> Knowledge </span>
 location: "Alexandria, VA"
 resume_url: /blob/master/img/Resume_Hill_2025.pdf
 avatar_image: /img/headshot.jpeg
@@ -52,6 +52,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
