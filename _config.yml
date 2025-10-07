@@ -18,7 +18,7 @@ baseurl: "/kathleenhillportfolio.github.io"
 # About Section
 subtitle: Turning Data Into <span style="color:#f58506"> Knowledge </span>
 location: "Alexandria, VA"
-resume_url: /blob/master/img/Resume_Hill_2025.pdf
+resume_url: /img/Resume_Hill_2025.pdf
 avatar_image: /img/headshot.jpeg
 
 #-------------------------------
@@ -52,6 +52,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
