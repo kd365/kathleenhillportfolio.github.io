@@ -2,6 +2,7 @@
 layout: post
 title: Superhero Name Generation
 image: "/posts/Super.png"
+image_style: contain
 tags: [Python, TensorFlow]
 ---
 
