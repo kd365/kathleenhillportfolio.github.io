@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Superhero Name Generation
-image: "/posts/Comic book picture.avif"
+image: "/posts/Super.png"
 tags: [Python, TensorFlow]
 ---
 
