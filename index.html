@@ -12,4 +12,16 @@ layout: default
             {% include pagination.html %}
         </div>
     </div>
+
 </div>
+
+<style>
+/* Only affect the homepage card grid */
+.container > .row > .col.col-12.col-t-12 .row img {
+  width: 100%;
+  height: 200px;          /* match your card height */
+  object-fit: contain !important;  /* stop zoom-crop */
+  background: #fff;       /* optional: fills letterbox bars */
+  display: block;
+}
+</style>
