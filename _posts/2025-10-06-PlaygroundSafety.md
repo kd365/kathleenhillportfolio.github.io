@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Park Safety in Washington DC
-image: "/posts/playground%20(1).jpg"
+image: "/posts/playground.jpg"
 tags: [Playground, Safety, GIS]
 ---
 
