@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Museum Collection Manager App
-image: "https://commons.wikimedia.org/wiki/File:Pavillon_de_Flore,_Louvre_Museum,_Paris_5_November_2019.jpg"
+image: "/posts/louvre.jpg"
 tags: [flask, nginx, aws-ec2, ubuntu]
 ---
 
