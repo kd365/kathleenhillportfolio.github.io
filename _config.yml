@@ -5,6 +5,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-feed
 #----
 #-------------------------------
 # General Site Settings
@@ -55,6 +56,14 @@ defaults:
 #   - vendor/ruby/
 
 
+# Feed configuration
+feed:
+  title: "Kathleen Hill's Portfolio Blog"
+  description: "Data science projects, tutorials, and insights"
+  author:
+    name: "Kathleen Hill"
+    email: "your-email@example.com"  # Optional
+    uri: "https://khilldata.com"
 
 
 
