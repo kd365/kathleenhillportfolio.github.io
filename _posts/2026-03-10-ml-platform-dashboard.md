@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ML Platform Ops Dashboard
-image: "/posts/ml-platform.jpg"
+image: "/posts/Dashboard.png"
 tags: [kubernetes, sagemaker, terraform, fastapi, react, github-actions, docker]
 ---
 
